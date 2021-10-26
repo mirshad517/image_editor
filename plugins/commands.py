@@ -45,7 +45,7 @@ async def help(client, message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://github.com/TroJanzHEX/Image-Editor",
+                            url="https://instagram.com/mirshad_kvr?utm_medium=copy_link",
                         )
                     ],
                 ]

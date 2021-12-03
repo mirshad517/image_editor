@@ -18,8 +18,8 @@ async def start(client: Client, message: Message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE",
-                            url="https://github.com/TroJanzHEX/Image-Editor",
+                            "Follow 😁",
+                            url="https://instagram.com/mirshad_kvr?utm_medium=copy_link",
                         )
                     ],
                 ]
@@ -44,7 +44,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE",
+                            "Follow 😁",
                             url="https://instagram.com/mirshad_kvr?utm_medium=copy_link",
                         )
                     ],
@@ -70,8 +70,8 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE",
-                            url="https://github.com/TroJanzHEX/Image-Editor",
+                            "Follow 😁",
+                            url="https://instagram.com/mirshad_kvr?utm_medium=copy_link",
                         )
                     ],
                 ]
